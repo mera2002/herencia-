@@ -1,0 +1,10 @@
+C:\TareaSMN10\TareaSMN10\bin\Debug\TareaSMN10.exe.config
+C:\TareaSMN10\TareaSMN10\bin\Debug\TareaSMN10.exe
+C:\TareaSMN10\TareaSMN10\bin\Debug\TareaSMN10.pdb
+C:\TareaSMN10\TareaSMN10\obj\Debug\TareaSMN10.csproj.AssemblyReference.cache
+C:\TareaSMN10\TareaSMN10\obj\Debug\TareaSMN10.Form1.resources
+C:\TareaSMN10\TareaSMN10\obj\Debug\TareaSMN10.Properties.Resources.resources
+C:\TareaSMN10\TareaSMN10\obj\Debug\TareaSMN10.csproj.GenerateResource.cache
+C:\TareaSMN10\TareaSMN10\obj\Debug\TareaSMN10.csproj.CoreCompileInputs.cache
+C:\TareaSMN10\TareaSMN10\obj\Debug\TareaSMN10.exe
+C:\TareaSMN10\TareaSMN10\obj\Debug\TareaSMN10.pdb

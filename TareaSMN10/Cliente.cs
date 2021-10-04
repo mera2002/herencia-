@@ -6,14 +6,30 @@ using System.Threading.Tasks;
 
 namespace TareaSMN10
 {
-    class Cliente: Persona
+    class Cliente : Persona
     {
-        public int Num { get; set;  }
+        public int Num { get; set; }
         public int fechaAlta { get; set; }
 
 
 
-        public void VerFEchaAlta()
-        { }
+        public int VerFEchaAlta()
+
+        {
+            return Num + fechaAlta;
+        }
+       
+
+            
+
+
+            //metodo sobreescrito 
+            public override string borrar()
+        {
+            return "No se encontro el registro "; //base.borrar();
+        }
+
+
     }
-}
+    }
+

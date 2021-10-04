@@ -12,27 +12,7 @@ namespace TareaSMN10
 
         public int codUsuario { get; set; }
 
-        //metodos
         
-        public string autorizar()
-            {
-            {
-                var mensaje = "";
-                if (nombre == "Usuario") 
-                {
-                    mensaje  = "Autorizado";
-                }
-                else
-                {
-                    mensaje = "No esta Autorizado";
-                }
-                return "La persona " + nombre + mensaje; 
-            }
-        }
-        public string Creaar()
-        {
-            return crear();
-        }
 
     }
 }

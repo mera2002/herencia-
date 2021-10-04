@@ -25,14 +25,25 @@ namespace TareaSMN10
             usuario.direccion = "San Miguel, El salvador";
             usuario.correoElec = "Meraryaraujo@gmail.com";
             usuario.codUsuario = 12345;
+            usuario.autoriza = true;
+            usuario.crea = true;
+
+            MessageBox.Show(usuario.datos());
+            MessageBox.Show(usuario.crear());
+            MessageBox.Show(usuario.enviarMensaje());
+         
 
             Cliente cliente = new Cliente();
 
             cliente.nombre = "Nathaly ";
             cliente.direccion = "San Miguel, El salvador";
-            cliente.correoElec = "Meraryaraujo@gmail.com";
+            cliente.correoElec = "Nathaly@gmail.com";
             cliente.Num = 7895302;
-         
+
+           MessageBox.Show(cliente.borrar());
+           MessageBox.Show(cliente.borrar("Merary "));
+
+
         }
     }
 }
