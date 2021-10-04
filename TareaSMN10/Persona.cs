@@ -11,6 +11,8 @@ namespace TareaSMN10
 
         //  INTEGRANTES 
         // Merary Julissa Araujo Velasquez 
+        //Nathaly Sarai Rodriguez Silva 
+
         //propiedades 
         public string nombre { get; set; }
         public string direccion { get; set; }
